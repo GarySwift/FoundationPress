@@ -52,7 +52,7 @@ function foundationpress_before_tiny_mce_init_insert_formats( $init_array ) {
 			'wrapper' => false,
 		),	
 		array(  
-			'title' => 'Label Secondadry',  
+			'title' => 'Label Secondary',  
 			'inline' => 'span',  
 			'classes' => 'label secondary',
 			'wrapper' => false,
